@@ -15,14 +15,14 @@ The file can be run in the following manner
 ./route.py [start-city] [end-city] [routing-algorithm] [cost-function]
 
 [routing-algorithm] can take the following values:
-..1. bfs
-..2. dfs
-..3. uunifrom
-..4. astar
+1. bfs
+2. dfs
+3. uunifrom
+4. astar
 
 [cost_function] can take the following values:
-..1. segments
-..2. distance
-..3. time
+1. segments
+2. distance
+3. time
 
 The code finally outputs the route to be taken from the start city to end city.
